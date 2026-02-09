@@ -1,0 +1,23 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+#avatar {
+  border-radius: 15% !important;
+}
+
+#avatar img {
+  object-fit: contain;
+  object-position: center center;
+  padding: 0.6rem;
+  width: 100%;
+  height: 100%;
+}
