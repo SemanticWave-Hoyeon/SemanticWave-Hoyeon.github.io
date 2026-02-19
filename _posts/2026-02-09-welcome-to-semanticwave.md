@@ -24,8 +24,8 @@ Our strength lies in the synergy between **on-site maritime expertise** (Navigat
     : Applying Natural Language Processing to maritime safety. NavtexRecovery is our open-source tool for AI-powered error recovery in NAVTEX messages, combined with semantic classification of S-100 standard data.
 * **Next-Gen Standards (S-100) — [FerriteS100](https://github.com/SemanticWave-Hoyeon/FerriteS100)**
     : Building a free, open-source S-100 framework implementation. FerriteS100 provides tools for parsing, validating, and working with IHO S-100 standard data to accelerate the future of digital e-Navigation.
-* **Maritime Cyber Security**
-    : Protecting shipboard OT/IT systems and communication networks from emerging cyber threats. We research vulnerability assessment, intrusion detection, and resilience strategies for the maritime domain.
+* **Maritime Cyber Security** — [CVE-2026-22208](https://www.cve.org/CVERecord?id=CVE-2026-22208)
+    : Discovered critical RCE vulnerability (CVSS 9.3) in S-100 ECDIS portrayal engine. Published in *Sensors* (SCIE). We research vulnerability assessment, intrusion detection, and resilience strategies for maritime OT/IT systems.
 
 ---
 

@@ -38,6 +38,8 @@ We deliver research and services across maritime IT — including vessel operati
 
 ### Publications (SCIE)
 
+- **Analysis of Security Vulnerabilities in S-100-Based Maritime Navigation Software**
+  — *Sensors*, Vol. 26, No. 4, 2026. (First Author, [CVE-2026-22208](https://www.cve.org/CVERecord?id=CVE-2026-22208))
 - **Comparative Performance Analysis of Software-Based Restoration Techniques for NAVTEX Message**
   — *J. Mar. Sci. Eng.*, Vol. 13, No. 9, 2025. (First Author, **Cover Paper**)
 - **Analysis of Bi-LSTM CRF Series Models for Semantic Classification of NAVTEX Navigational Safety Messages**

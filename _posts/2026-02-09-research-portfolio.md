@@ -4,11 +4,18 @@ description: "A comprehensive overview of SemanticWave's research — journal pu
 author: Hoyeon Cho
 date: 2026-02-09 11:00:00 +0900
 categories: [Research, Portfolio]
-tags: [publications, scie, navtex, s-100, maritime-ai, autonomous-ship]
+tags: [publications, scie, navtex, s-100, maritime-ai, autonomous-ship, cybersecurity, cve]
 pin: true
 ---
 
 ## Journal Publications (SCIE)
+
+### Analysis of Security Vulnerabilities in S-100-Based Maritime Navigation Software
+- **Journal**: *Sensors*, Vol. 26, No. 4, p.1246, 2026
+- **Role**: First Author
+- **DOI**: [10.3390/s26041246](https://doi.org/10.3390/s26041246)
+- **CVE**: [CVE-2026-22208](https://www.cve.org/CVERecord?id=CVE-2026-22208) (CVSS 9.3)
+- Evaluated SAST tools vs. expert manual review for S-100 ECDIS software security. Discovered an unrestricted Lua interpreter flaw enabling Remote Code Execution via malicious portrayal catalogues. Demonstrates that SAST tools missed 83% of expert-identified vulnerabilities. Proposes security controls for the IHO S-100 framework.
 
 ### Comparative Performance Analysis of Software-Based Restoration Techniques for NAVTEX Message
 - **Journal**: *J. Mar. Sci. Eng.*, Vol. 13, No. 9, p.1657, 2025
